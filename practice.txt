@@ -1,1 +1,1 @@
-this is for practice
+Practice file to uderstand merge conflict and resolve merge conflict due to collaboration 
