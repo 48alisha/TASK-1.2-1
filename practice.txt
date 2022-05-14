@@ -1,1 +1,5 @@
 Practice file to uderstand merge conflict and resolve merge conflict due to collaboration 
+A merge conflict is an event.
+Git is unable to automatically resolve differences in code between two commits. 
+Git can merge the changes automatically.
+Lets learn how to solve merge conlict due to collaboration..
